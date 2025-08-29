@@ -32,3 +32,4 @@ for emp in employees.find():
         if dept:
             dept_name = dept["name"]
     print(f"- {emp['name']} → {dept_name}")
+
