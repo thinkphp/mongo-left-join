@@ -1,6 +1,6 @@
 ## 📘 README.md – MongoDB Employees & Departments (Manual Join)
 
-```markdown
+
 # 🧑‍💼 MongoDB Employees & Departments – Manual Join Example
 
 This project demonstrates how to simulate a relational structure in MongoDB using two collections: `employees` and `departments`. It shows how to insert sample data and perform a manual LEFT JOIN in Python using `pymongo`.
