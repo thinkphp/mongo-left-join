@@ -66,7 +66,3 @@ MongoDB does not support traditional SQL-style joins, but we can achieve similar
 
 **Adrian** – Exploring data modeling in MongoDB with Python.
 ```
-
-
-
-If you'd like to expand this into a more advanced project — maybe using `$lookup` aggregation or building a small API — I’d be happy to help you take it further.
